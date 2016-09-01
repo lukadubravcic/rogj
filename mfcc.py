@@ -1,4 +1,4 @@
-#USAGE: python mfcc <wav file> <lab file>
+#USAGE: python 
 
 import sys
 import os
