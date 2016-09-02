@@ -1,4 +1,4 @@
-#USAGE: python 
+#USAGE: python <file.wav> <file.lab>
 
 import sys
 import os
